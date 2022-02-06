@@ -47,7 +47,7 @@ Modern processor architectures typically allow the **processor** to operate at l
 
 A shell is a special purpose program designed to read commands typed by user and execute appropriate programs in response to those commands. Such program is sometimes known as *command interpreter*.
 
-
+### Shell 1
 
 
 
